@@ -1,0 +1,22 @@
+{
+  "name": "codejam",
+  "version": "1.0.0",
+  "description": "CodeJam-3 CoreJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svyatlo/rsschool-codejam.git"
+  },
+  "author": "Sviatlana Tamashevich <svyatlo@list.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svyatlo/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/svyatlo/rsschool-codejam#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
