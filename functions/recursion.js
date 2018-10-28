@@ -3,7 +3,7 @@ const tempArr = [];
 const result = [];
 let count = 0;
 arrOfTree.push(tree);
-function recursion(tree) {
+module.exports = function recursion(tree) {
     let currentEl = arrOfTree.shift();
     tempArr.push(currentEl.value);
     if (currentEl.left){
